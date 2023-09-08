@@ -1,0 +1,44 @@
+TRUNCATE TABLE adminactivity;
+TRUNCATE TABLE autochallanreport;
+TRUNCATE TABLE challan;
+TRUNCATE TABLE fine;
+TRUNCATE TABLE otherincomes;
+TRUNCATE TABLE program;
+TRUNCATE TABLE staffactivity;
+TRUNCATE TABLE studentfinelagers;
+TRUNCATE TABLE studentlagers;
+TRUNCATE TABLE student_balance;
+TRUNCATE TABLE student_discounts;
+TRUNCATE TABLE student_info;
+TRUNCATE TABLE universityaccountlager;
+///////////////////////////////////////////////////////
+For Whole System 
+/////////////////////////////////////////////////
+TRUNCATE TABLE adminactivity;
+TRUNCATE TABLE assigntotallecture;
+TRUNCATE TABLE assignteacherclass;
+TRUNCATE TABLE autochallanreport;
+TRUNCATE TABLE challan;
+TRUNCATE TABLE fine;
+TRUNCATE TABLE otherincomes;
+TRUNCATE TABLE program;
+TRUNCATE TABLE staffactivity;
+TRUNCATE TABLE studentenroll;
+TRUNCATE TABLE studentfinelagers;
+TRUNCATE TABLE studentlagers;
+TRUNCATE TABLE student_balance;
+TRUNCATE TABLE student_discounts;
+TRUNCATE TABLE student_info;
+TRUNCATE TABLE tblstudents;
+TRUNCATE TABLE tblattendance;
+TRUNCATE TABLE tblclass;
+TRUNCATE TABLE tblclassarms;
+TRUNCATE TABLE tblclassteacher;
+TRUNCATE TABLE universityaccountlager;
+
+
+
+
+
+
+

@@ -1,0 +1,411 @@
+[25-Sep-2022 15:53:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 15:53:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 15:53:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:30:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:30:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:30:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:30:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:30:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:31:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:31:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:31:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:31:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:36:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:42:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:42:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:42:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:42:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:42:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:43:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:43:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:43:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:45:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:46:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:49:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:49:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:49:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:51:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:51:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:52:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:54:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[25-Sep-2022 18:56:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 03:32:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 03:32:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 03:32:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 03:33:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:06:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:06:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:06:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:25:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:26:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:26:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:27:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:27:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:27:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:28:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:28:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:29:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 4
+[26-Sep-2022 04:35:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:35:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:35:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:37:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:37:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:37:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:40:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:40:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:44:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:49:02 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home1/basmaals/public_html/bilal/Includes/dbcon.php:11
+Stack trace:
+#0 /home1/basmaals/public_html/bilal/index.php(4): include()
+#1 {main}
+  thrown in /home1/basmaals/public_html/bilal/Includes/dbcon.php on line 11
+[26-Sep-2022 04:49:06 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home1/basmaals/public_html/bilal/Includes/dbcon.php:11
+Stack trace:
+#0 /home1/basmaals/public_html/bilal/index.php(4): include()
+#1 {main}
+  thrown in /home1/basmaals/public_html/bilal/Includes/dbcon.php on line 11
+[26-Sep-2022 04:49:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:49:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:49:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:51:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:51:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 04:58:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 05:00:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 05:00:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 05:00:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 05:00:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:21:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:22:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:22:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:25:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:25:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:25:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:26:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:26:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:26:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:27:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:27:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:27:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:27:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:28:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:28:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 06:53:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:01:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:01:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:01:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:03:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:03:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:03:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:09:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:09:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:49:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:50:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:51:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:57:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 08:57:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 09:57:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 11:09:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 11:09:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 11:09:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/basmaals/public_html/bilal/index.php on line 3
+[26-Sep-2022 11:42:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/basmaals/public_html/bilal/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/basmaals/public_html/bilal/index.php on line 21
+[26-Sep-2022 11:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/basmaals/public_html/bilal/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/basmaals/public_html/bilal/index.php on line 21
+[26-Sep-2022 11:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/basmaals/public_html/bilal/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/basmaals/public_html/bilal/index.php on line 21
+[26-Sep-2022 11:43:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/basmaals/public_html/bilal/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/basmaals/public_html/bilal/index.php on line 21
+[27-Sep-2022 07:49:04 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[27-Sep-2022 07:49:04 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[27-Sep-2022 07:53:03 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[27-Sep-2022 07:53:03 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[27-Sep-2022 08:26:51 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[27-Sep-2022 08:26:51 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[27-Sep-2022 09:32:31 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[27-Sep-2022 09:32:31 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[28-Sep-2022 06:23:18 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[28-Sep-2022 06:23:18 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[28-Sep-2022 09:04:07 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[28-Sep-2022 09:04:07 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[28-Sep-2022 19:14:23 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[28-Sep-2022 19:14:23 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[28-Sep-2022 19:22:08 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[28-Sep-2022 19:22:08 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[29-Sep-2022 08:03:25 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[29-Sep-2022 08:03:25 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[30-Sep-2022 16:49:28 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[30-Sep-2022 16:49:28 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 06:26:43 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 06:26:43 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 09:40:40 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 09:40:40 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 10:31:18 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 10:31:18 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 10:32:17 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 10:32:17 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 10:49:01 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[03-Oct-2022 17:57:39 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[03-Oct-2022 17:57:39 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[04-Oct-2022 06:58:47 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[04-Oct-2022 06:58:47 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[04-Oct-2022 10:49:03 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[04-Oct-2022 10:49:03 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[05-Oct-2022 12:08:25 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[05-Oct-2022 12:08:25 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[06-Oct-2022 06:47:09 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[06-Oct-2022 06:47:09 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[06-Oct-2022 06:51:15 UTC] PHP Warning:  Undefined array key "classId" in /home1/basmaals/public_html/bilal/index.php on line 112
+[06-Oct-2022 06:51:15 UTC] PHP Warning:  Undefined array key "classArmId" in /home1/basmaals/public_html/bilal/index.php on line 113
+[10-Oct-2022 09:04:43 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 09:04:43 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 09:05:20 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 09:05:20 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 09:33:15 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 09:33:15 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 10:19:11 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 10:19:11 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 10:27:24 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 10:27:24 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 10:37:42 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 10:37:42 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 11:10:32 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 11:10:32 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 11:22:08 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 11:22:08 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 11:49:52 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 11:49:52 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 13:04:50 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 13:04:50 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 16:34:08 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 16:34:08 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 17:43:41 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 17:43:41 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:04:14 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:04:14 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:08:35 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:08:35 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:11:06 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:11:06 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:30:58 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:30:58 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:46:23 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:46:23 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:52:16 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:52:16 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:56:42 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:56:42 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:58:29 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:58:29 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 18:59:52 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 18:59:52 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[10-Oct-2022 19:35:28 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[10-Oct-2022 19:35:28 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 05:45:44 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 05:45:44 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 06:31:48 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 06:31:48 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 06:39:59 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 06:39:59 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 07:06:18 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 07:06:18 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 07:12:08 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 07:12:08 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 07:40:19 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 07:40:19 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 08:08:53 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 08:08:53 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 09:38:23 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 09:38:23 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[11-Oct-2022 14:07:01 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[11-Oct-2022 14:07:01 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[12-Oct-2022 06:10:23 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[12-Oct-2022 06:10:23 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[12-Oct-2022 06:12:06 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[12-Oct-2022 06:12:06 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[12-Oct-2022 06:39:08 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[12-Oct-2022 06:39:08 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[12-Oct-2022 07:18:26 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 112
+[12-Oct-2022 07:18:26 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 113
+[12-Oct-2022 08:26:41 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 08:26:41 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Oct-2022 08:38:15 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 08:38:15 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Oct-2022 09:22:48 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 09:22:48 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Oct-2022 10:07:53 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 10:07:53 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Oct-2022 10:28:59 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 10:28:59 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Oct-2022 11:21:50 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Oct-2022 11:21:50 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[13-Oct-2022 07:22:27 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[13-Oct-2022 07:22:27 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[13-Oct-2022 13:35:57 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[13-Oct-2022 13:35:57 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[13-Oct-2022 13:47:33 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[13-Oct-2022 13:47:33 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[13-Oct-2022 18:10:27 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[13-Oct-2022 18:10:27 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[26-Oct-2022 05:56:41 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[26-Oct-2022 05:56:41 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[28-Dec-2022 06:13:26 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[28-Dec-2022 06:13:26 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[28-Dec-2022 06:14:41 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[28-Dec-2022 06:14:41 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[28-Dec-2022 07:02:04 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[28-Dec-2022 07:02:04 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[02-Jan-2023 18:46:07 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[02-Jan-2023 18:46:07 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[03-Jan-2023 07:31:45 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[03-Jan-2023 07:31:45 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[03-Jan-2023 07:37:24 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[03-Jan-2023 07:37:24 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[03-Jan-2023 07:44:22 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[03-Jan-2023 07:44:22 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[03-Jan-2023 11:27:12 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[03-Jan-2023 11:27:12 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 07:42:11 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 07:42:11 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 08:34:29 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 08:34:29 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 11:25:02 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 11:25:02 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 15:23:51 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 15:23:51 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 20:11:07 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 20:11:07 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[04-Jan-2023 20:12:22 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[04-Jan-2023 20:12:22 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[05-Jan-2023 18:34:11 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[05-Jan-2023 18:34:11 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 07:06:05 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 07:06:05 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 07:14:47 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 07:14:47 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 07:55:05 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 07:55:05 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 07:56:08 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 07:56:08 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 09:09:04 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 09:09:04 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[06-Jan-2023 09:44:42 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[06-Jan-2023 09:44:42 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[07-Jan-2023 10:33:45 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[07-Jan-2023 10:33:45 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[08-Jan-2023 13:33:16 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[08-Jan-2023 13:33:16 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[09-Jan-2023 08:01:43 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[09-Jan-2023 08:01:43 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 05:51:15 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 05:51:15 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 07:24:33 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 07:24:33 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 07:45:09 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 07:45:09 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 07:53:04 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 07:53:04 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 09:20:03 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 09:20:03 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[10-Jan-2023 09:20:52 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[10-Jan-2023 09:20:52 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 03:27:45 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 03:27:45 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 03:30:58 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 03:30:58 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 03:31:32 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 03:31:32 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 03:33:39 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 03:33:39 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 03:35:22 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 03:35:22 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 04:10:19 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 04:10:19 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 04:11:23 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 04:11:23 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[11-Jan-2023 05:43:37 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[11-Jan-2023 05:43:37 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Jan-2023 07:04:35 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Jan-2023 07:04:35 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Jan-2023 07:08:01 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Jan-2023 07:08:01 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[12-Jan-2023 07:08:33 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[12-Jan-2023 07:08:33 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[13-Jan-2023 05:48:58 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[13-Jan-2023 05:48:58 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[16-Jan-2023 06:23:25 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[16-Jan-2023 06:23:25 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[16-Jan-2023 07:20:18 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[16-Jan-2023 07:20:18 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[16-Jan-2023 07:31:33 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[16-Jan-2023 07:31:33 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[16-Jan-2023 08:03:14 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[16-Jan-2023 08:03:14 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[17-Jan-2023 06:51:22 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[17-Jan-2023 06:51:22 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[17-Jan-2023 07:12:09 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[17-Jan-2023 07:12:09 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[18-Jan-2023 07:22:13 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[18-Jan-2023 07:22:13 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[18-Jan-2023 07:39:36 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[18-Jan-2023 07:39:36 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[18-Jan-2023 10:53:07 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[18-Jan-2023 10:53:07 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[18-Jan-2023 11:10:26 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[18-Jan-2023 11:10:26 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 06:41:50 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 06:41:50 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 06:47:12 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 06:47:12 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 06:49:28 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 06:49:28 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 07:31:56 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 07:31:56 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 10:08:33 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 10:08:33 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 10:16:38 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 10:16:38 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[19-Jan-2023 11:06:36 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[19-Jan-2023 11:06:36 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[20-Jan-2023 06:09:36 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[20-Jan-2023 06:09:36 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[20-Jan-2023 06:33:56 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[20-Jan-2023 06:33:56 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[20-Jan-2023 07:45:36 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[20-Jan-2023 07:45:36 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[23-Jan-2023 07:10:21 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[23-Jan-2023 07:10:21 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[24-Jan-2023 04:20:32 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[24-Jan-2023 04:20:32 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[24-Jan-2023 04:22:56 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[24-Jan-2023 04:22:56 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[24-Jan-2023 06:04:11 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[24-Jan-2023 06:04:11 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[24-Jan-2023 14:25:59 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[24-Jan-2023 14:25:59 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[24-Jan-2023 17:38:29 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[24-Jan-2023 17:38:29 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[25-Jan-2023 04:20:48 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[25-Jan-2023 04:20:48 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[26-Jan-2023 06:30:39 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[26-Jan-2023 06:30:39 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[27-Jan-2023 07:24:09 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[27-Jan-2023 07:24:09 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[27-Jan-2023 07:41:06 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[27-Jan-2023 07:41:06 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116
+[28-Jan-2023 05:57:27 UTC] PHP Notice:  Undefined index: classId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 115
+[28-Jan-2023 05:57:27 UTC] PHP Notice:  Undefined index: classArmId in /home1/newadvan/attendance.newadvancecollege.com/index.php on line 116

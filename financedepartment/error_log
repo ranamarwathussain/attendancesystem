@@ -1,0 +1,1 @@
+[02-Apr-2023 20:13:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/newadvan/public_html/financedepartment/Includes/dbcon.php on line 8
